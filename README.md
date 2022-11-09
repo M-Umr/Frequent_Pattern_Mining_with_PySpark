@@ -5,3 +5,6 @@
 
 To access all the datasets, Kaggle link:
 https://www.kaggle.com/blackgraywhitewhite/healthcare-dataset
+
+To access complete notebook:
+https://colab.research.google.com/drive/1w-Q7aoweihgWMA8lsrL-TBZXpSejmOW1#scrollTo=7WLony0jO4We
